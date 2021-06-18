@@ -1,4 +1,4 @@
-name: Henil
+name: Azure
 
 on: workflow_dispatch
 
